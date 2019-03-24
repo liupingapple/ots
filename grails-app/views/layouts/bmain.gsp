@@ -206,7 +206,7 @@
 <g:if test="${!(WeiXinUtil.WeiXinName == WeiXinUtil.WeiXinName_KCDB || session.weixinOpenId || session.assignment?.name?.endsWith('_FOR_WX') )}">
 	<hr class="footer-divider">
 	<div class="container">
-		<p>
+		<p><a href="http://www.miibeian.gov.cn/">沪ICP备14038534</a> &nbsp;&nbsp;
 			&copy; 2013-2014 sHOTs Software Inc. All Rights Reserved. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<g:link controller="adminUser" action="login">管理员</g:link>
 			&nbsp;&nbsp;<a data-toggle="modal" data-target="#about" href="#">关于高手云</a>
