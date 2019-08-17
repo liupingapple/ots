@@ -3,6 +3,7 @@
 ### What is this repository for? ###
 
 * Version:  OTSV2
+* 对应本地电脑目录为 D:/grailswk/ots
 
 ### How do I get set up? ###
 
